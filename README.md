@@ -4,11 +4,11 @@ Greetings! I'm a seasoned Frontend Engineer, dedicated to crafting exceptional u
 
 ## 🚀 Expertise
 
-My forte lies in sculpting captivating user interfaces, ensuring the seamless realization of frontend projects. From single-page applications to complex web solutions, I guarantee unparalleled UI/UX experiences. I possess an in-depth understanding of Dockerizing applications and deploying them to Kubernetes, optimizing performance and ensuring cross-browser compatibility [Source 1](https://blog.logrocket.com/deploy-react-app-kubernetes-using-docker/).
+My forte lies in sculpting captivating user interfaces, ensuring the seamless realization of frontend projects. From single-page applications to complex web solutions, I guarantee unparalleled UI/UX experiences. I possess an in-depth understanding of Dockerizing applications and deploying them to Kubernetes, optimizing performance and ensuring cross-browser compatibility.
 
 ## 💡 Problem-Solving Proficiency
 
-Immersed in the frontend ecosystem, I bring creative problem-solving skills to the table. My proficiency guarantees optimal performance, cross-browser compatibility, and the delivery of seamless, remarkable user interactions across diverse frontend technologies. I excel in employing advanced React patterns such as High Order Components and Render Props, elevating component construction and code reusability [Source 7](https://www.telerik.com/blogs/advanced-patterns-in-react).
+Immersed in the frontend ecosystem, I bring creative problem-solving skills to the table. My proficiency guarantees optimal performance, cross-browser compatibility, and the delivery of seamless, remarkable user interactions across diverse frontend technologies. I excel in employing advanced React patterns such as High Order Components and Render Props, elevating component construction and code reusability.
 
 ## 🔧 Tools and Technologies
 
@@ -16,7 +16,7 @@ Proficient in a diverse array of tools and technologies, I leverage **Docker** f
 
 ## 🌐 Deployment and Hosting
 
-I specialize in deploying Next.js applications through **Vercel**, a leading Jamstack application hosting provider [Source 2](https://blog.logrocket.com/structure-scalable-next-js-project-architecture/). Additionally, I am well-versed in deploying applications to any hosting provider supporting Docker containers. This versatility proves invaluable when deploying to container orchestrators like Kubernetes or running applications within containers on various cloud providers [Source 5](https://nextjs.org/docs/pages/building-your-application/deploying).
+I specialize in deploying Next.js applications through **Vercel**, a leading Jamstack application hosting provider. Additionally, I am well-versed in deploying applications to any hosting provider supporting Docker containers. This versatility proves invaluable when deploying to container orchestrators like Kubernetes or running applications within containers on various cloud providers.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
