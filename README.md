@@ -2,7 +2,7 @@
 
 # Greetings!
 
-I'm a seasoned Frontend Engineer with a passion for creating exceptional user interfaces. My expertise spans **React** / **Next.js**, and **Next.js**, complemented by a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. Proficient in **Node.js** and **Linux**, my mission is to elevate user experiences through innovative design and development. I'm excited about the opportunity to contribute my skills and creativity to your team.
+I'm a seasoned Frontend Engineer with a passion for creating exceptional user interfaces. My expertise spans **React** / **Next.js** , and **Next.js**, complemented by a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. My mission is to elevate user experiences through innovative design and development. I'm excited about the opportunity to contribute my skills and creativity to your team.
 
 ## 🚀 Expertise
 
