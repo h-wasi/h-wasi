@@ -12,7 +12,7 @@ I'm a frontend developer who is immersed in the vibrant and diverse world of fro
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,tailwind,express,nodejs,linux,firebase,supabase,bash,js,redux,ts,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,tailwind,express,nodejs,linux,firebase,supabase,mongodb,bash,js,redux,ts,appwrite)](https://skillicons.dev)
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <br>
