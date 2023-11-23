@@ -1,8 +1,5 @@
 ## 👋 About Me
-
-# Greetings!
-
-As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
+Greetings! As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
 
 ## 🚀 Expertise
 
