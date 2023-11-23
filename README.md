@@ -21,9 +21,9 @@ Immersed in the vibrant world of frontend development, I bring creative problem-
 <br>
 
 <p align="center">
-  <a href="https://github.com/Mohsin-mw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&theme=algolia&count-private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook" />
+  <a href="https://github.com/h-wasi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-wasi&show_icons=true&theme=algolia&count-private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-wasi&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook" />
   </a>
 </p>
 <br>
