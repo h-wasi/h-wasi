@@ -1,22 +1,23 @@
-## 👋 About Me
+# About Me
 
-Greetings! I'm a seasoned Frontend Engineer, dedicated to crafting exceptional user interfaces that redefine the standards of user experiences. My expertise revolves around **React** / **Next.js**, **React-Native**, and **Next.js**, complemented by a comprehensive skill set that includes **Docker**, **AWS**, **Tailwind**, **Express**, **Figma**, **Kubernetes**, **Vercel**, **Node.js**, **Linux**, **JS**, **TS**, and **Appwrite**.
+Hello! I'm a seasoned Frontend Engineer with expertise in React, Next.js, React-Native, Docker, AWS, Tailwind, and more.
 
-## 🚀 Expertise
+# Expertise
 
-My forte lies in sculpting captivating user interfaces, ensuring the seamless realization of frontend projects. From single-page applications to complex web solutions, I guarantee unparalleled UI/UX experiences. I possess an in-depth understanding of Dockerizing applications and deploying them to Kubernetes, optimizing performance and ensuring cross-browser compatibility.
+I specialize in crafting captivating user interfaces for diverse frontend projects, ensuring optimal performance and cross-browser compatibility. Proficient in Dockerizing applications and deploying to Kubernetes.
 
-## 💡 Problem-Solving Proficiency
+# Problem-Solving
 
-Immersed in the frontend ecosystem, I bring creative problem-solving skills to the table. My proficiency guarantees optimal performance, cross-browser compatibility, and the delivery of seamless, remarkable user interactions across diverse frontend technologies. I excel in employing advanced React patterns such as High Order Components and Render Props, elevating component construction and code reusability.
+In the frontend ecosystem, I bring creative problem-solving skills, guaranteeing remarkable user interactions. Proficient in advanced React patterns like High Order Components and Render Props.
 
-## 🔧 Tools and Technologies
+# Tools
 
-Proficient in a diverse array of tools and technologies, I leverage **Docker** for efficient containerization and **Kubernetes** for seamless orchestration, ensuring scalable and performant applications. **AWS** serves as my go-to for cloud computing, while **Node.js** powers my backend development. **GitHub** is my trusted companion for version control, and **Linux** is my preferred environment for server management. Styling prowess is achieved through **CSS**, **Bootstrap**, and **Tailwind**, while frontend development involves **JS**, **HTML**, and **Redux**. My repertoire extends to **Next.js** for server-side rendering and static site generation, and I seamlessly integrate backend services with **Supabase** and **Firebase**.
+Experienced with Docker for containerization, Kubernetes for orchestration, AWS for cloud computing, and Node.js for backend development. Skilled in CSS, Bootstrap, Tailwind, JS, HTML, Redux, and more.
 
-## 🌐 Deployment and Hosting
+# Deployment
 
-I specialize in deploying Next.js applications through **Vercel**, a leading Jamstack application hosting provider. Additionally, I am well-versed in deploying applications to any hosting provider supporting Docker containers. This versatility proves invaluable when deploying to container orchestrators like Kubernetes or running applications within containers on various cloud providers.
+Specializing in deploying Next.js applications via Vercel. Versatile in deploying to various hosting providers supporting Docker containers, including container orchestrators like Kubernetes.
+
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
