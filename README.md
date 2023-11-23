@@ -1,11 +1,11 @@
 ### 👋 About Me
 Greetings! As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
 
-### 🚀 Expertise
+### 🚀 Expertise:
 
 I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects. I'm a versatile and tech-savvy developer who can handle different challenges and technologies.
 
-### 💡 Problem-Solving Proficiency
+### 💡 Problem-Solving Proficiency:
 
 I'm a frontend developer who is immersed in the vibrant and diverse world of frontend technologies. I use creative problem-solving skills and advanced React patterns to deliver seamless and remarkable user interactions, ensuring optimal performance and cross-browser compatibility.
 
