@@ -2,15 +2,15 @@
 
 # Greetings!
 
-I'm a seasoned Frontend Engineer with a passion for creating exceptional user interfaces. My expertise spans **React** / **Next.js** , and **Next.js**, complemented by a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. My mission is to elevate user experiences through innovative design and development. I'm excited about the opportunity to contribute my skills and creativity to your team.
+As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
 
 ## 🚀 Expertise
 
-I'm a passionate web developer who designs and implements user-friendly UIs for web solutions, from simple to complex. I have expertise in deploying **Next.js** apps with **Vercel**, a platform that boosts performance and compatibility. I also use **Docker**, **Kubernetes**, and **AWS** for hosting, orchestration, and cloud solutions. I'm a versatile and tech-savvy developer who can handle different challenges and technologies.
+I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects. I'm a versatile and tech-savvy developer who can handle different challenges and technologies.
 
 ## 💡 Problem-Solving Proficiency
 
-Immersed in the vibrant world of frontend development, I bring creative problem-solving to every project. My proficiency ensures optimal performance, cross-browser compatibility, and the delivery of seamless, remarkable user interactions across diverse frontend technologies. I excel in employing advanced React patterns, such as High Order Components and Render Props, elevating component construction and maximizing code reusability.
+I'm a frontend developer who is immersed in the vibrant and diverse world of frontend technologies. I use creative problem-solving skills and advanced React patterns to deliver seamless and remarkable user interactions, ensuring optimal performance and cross-browser compatibility.
 
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
