@@ -6,7 +6,7 @@ I'm a seasoned Frontend Engineer with a passion for creating exceptional user in
 
 ## 🚀 Expertise
 
-My strength lies in crafting compelling user interfaces, guaranteeing a superior user experience from single-page applications to intricate web solutions. With expertise in Dockerizing and deploying to Kubernetes, I optimize performance and ensure cross-browser compatibility. Specializing in deploying Next.js with Vercel, my tech versatility extends to Docker for hosting, Kubernetes for orchestration, and AWS for cloud solutions.
+I'm a passionate web developer who designs and implements user-friendly UIs for web solutions, from simple to complex. I have expertise in deploying **Next.js** apps with **Vercel**, a platform that boosts performance and compatibility. I also use **Docker**, **Kubernetes**, and **AWS** for hosting, orchestration, and cloud solutions. I'm a versatile and tech-savvy developer who can handle different challenges and technologies.
 
 ## 💡 Problem-Solving Proficiency
 
