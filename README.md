@@ -19,9 +19,7 @@ I'm a frontend developer who is immersed in the vibrant and diverse world of fro
 <br>
 
 <p align="center">
-  <a href="https://github.com/h-wasi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-wasi&show_icons=true&theme=algolia&count-private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-wasi&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook" />
-  </a>
+  <a href="https://github.com/h-wasi"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-wasi&show_icons=true&theme=moltack&count-private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-wasi&theme=moltack&layout=compact&count-private=true&hide=jupyter%20notebook"/></a>
 </p>
 <br>
