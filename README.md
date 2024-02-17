@@ -1,4 +1,6 @@
-### 👋 About Me
+#⛔⛔⛔⛔⛔⛔⛔ This account is deprecated....soon i will add new git link here.....checkout new account below for future commit changes
+
+<!-- ### 👋 About Me
 Greetings! As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
 
 ### 🚀 Expertise:
@@ -22,4 +24,4 @@ I'm a frontend developer who is immersed in the vibrant and diverse world of fro
   <a href="https://github.com/h-wasi"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-wasi&show_icons=true&theme=tokyonight&count-private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-wasi&theme=tokyonight&layout=compact&count-private=true&hide=jupyter%20notebook"/></a>
 </p>
-<br>
+<br> -->
